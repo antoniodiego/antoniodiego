@@ -1,5 +1,4 @@
-### Olá. Sou o Antonio Diêgo
-
+Olá. Sou o Antonio Diêgo
 
 Estudo Java desde 2010. Tem sido difícil conseguir certificação nessa linguagem porque os cursos já contém coisas que já sei.
 
