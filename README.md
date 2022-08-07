@@ -1,13 +1,15 @@
 ### Olá. Sou o Antonio Diêgo
 
-- 🔭 Atualmente trabalho com Java (Backend)
-- 🌱 Estou aprendendo Docker
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
+Estudo Java desde 2010. Tem sido difícil conseguir certificação nessa linguagem porque os cursos já contém coisas que já sei.
 
-Projetos favoritos no GitHub
+Comecei a estudar Pythom em 2019.
 
+Em 2021 comecei a trabalhar em projetos com React Native e React
+
+Também já me aventurei em projetos com PHP, desde por volta de 2012. Recentemente trabalhei mais com frameworks PHP, como Laravel e CodeIgniter
+
+### Projetos favoritos no GitHub
 
 <a href="https://github.com/antoniodiego/jtable-cell-rendereer">jtable-cell-renderer</a>
 
