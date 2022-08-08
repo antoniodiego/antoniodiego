@@ -10,8 +10,8 @@ Também já me aventurei em projetos com PHP, desde por volta de 2012. Recenteme
 
 Sou autor de diversas aplicações disponíveis em lojas, como:
 
-Gerente de projetos
-Gerente de projetos - Lite
+Gerente de projetos <br/>
+Gerente de projetos - Lite <br/>
 Gerente de problemas 
 
 
