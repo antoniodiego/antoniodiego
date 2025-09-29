@@ -2,15 +2,15 @@ Eu sou Antonio Diêgo, Desenvovedor de software com foco no Backend
 
 ## Linguagens e Tecnologias
 
-Java, PHP, JavaScript, C#
+Java, PHP, JavaScript, Node.JS, C#
 
 ## Frameworks
 
-Hibernate, Laravel, Spring
+Hibernate, Laravel, Spring, Express.JS, Next.JS, React Native, Flutter
 
-## Padrões de projetos e arquitetura
+## Princípios de projetos e arquitetura
 
-MVVC, MVC, Solid
+MVVC, MVC, SOLID, Clean Architeture
 
 ## Descrições dos projetos
 
